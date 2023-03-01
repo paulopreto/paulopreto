@@ -1,4 +1,4 @@
-👋 Paulo Roberto Pereira Santiago
+# 👋 Paulo Roberto Pereira Santiago
 Welcome to my GitHub profile! My name is Paulo Roberto Pereira Santiago and I am a professor and researcher at the University of Sao Paulo (USP). My research interests lie at the intersection of Biomechanics and Computer Engineering.
 
 🧐 About Me
