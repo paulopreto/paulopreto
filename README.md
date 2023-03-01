@@ -10,6 +10,8 @@
 
 ## 🤔 Interesting
 - As a professor and researcher in Physical Education and Computer Engineering, I find it particularly interesting to explore the potential of emerging technologies such as virtual reality, augmented reality, and wearable sensors for sports training and rehabilitation. I am also fascinated by the possibilities that machine learning and data analysis offer for understanding human movement and optimizing athletic performance.
+- I also have experience working with Linux systems, particularly in the context of scientific computing and data analysis.
+
 
 # 🔭 My GitHub Projects
 - In my GitHub account, you will find some of the projects that I have worked on, both individually and as part of a team. Here are some of the highlights:
@@ -20,3 +22,5 @@
 
 * Project C: Motion capture for biomechanical analysis with Vicon, Qualisys, and OptiTrack. Markerless human movement analysis.
 
+# 📫 Get in Touch
+If you would like to know more about me or my projects, please feel free to get in touch. You can find my contact information on my GitHub profile page. Thank you for visiting!
