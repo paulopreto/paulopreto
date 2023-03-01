@@ -1,6 +1,6 @@
 # 👋 Paulo Roberto Pereira Santiago
 - Welcome to my GitHub profile!
-- My name is Paulo Roberto Pereira Santiago and I am a professor and researcher at the University of Sao Paulo (USP).
+- My name is Paulo Roberto Pereira Santiago and I am a professor and researcher at the University of Sao Paulo (USP) 🇧🇷.
 - My research interests lie at the intersection of Biomechanics and Computer Engineering.
 
 ## 🧐 About Me
@@ -13,10 +13,10 @@
 - I also have experience working with Linux systems, particularly in the context of scientific computing and data analysis.
 
 
-# 🔭 My GitHub Projects
+# 🧑🏽‍🔬 My GitHub Projects
 - In my GitHub account, you will find some of the projects that I have worked on, both individually and as part of a team. Here are some of the highlights:
 
-* Project A: A software tool for analyzing running gait using motion capture data. Built using Python, Matlab, and specialized biomechanics software.
+* Project A: A software tool for analyzing running gait using motion capture data. Built using Python, Matlab/GNU-Octave, and specialized biomechanics software.
 
 * Project B: A machine learning-based approach for predicting injury risk in professional athletes. Built using Python and various machine learning libraries.
 
