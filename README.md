@@ -8,7 +8,7 @@
 
 - My research focuses on developing innovative technologies for sports performance analysis and rehabilitation, as well as applying machine learning and data analysis techniques to biomechanical data.
 
-## 🤔 Interesting
+## 🤔 Interesting ⚽🖥
 - As a professor and researcher in Physical Education and Computer Engineering, I find it particularly interesting to explore the potential of emerging technologies such as virtual reality, augmented reality, and wearable sensors for sports training and rehabilitation. I am also fascinated by the possibilities that machine learning and data analysis offer for understanding human movement and optimizing athletic performance.
 - I also have experience working with Linux systems, particularly in the context of scientific computing and data analysis.
 
