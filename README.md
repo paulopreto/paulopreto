@@ -1,5 +1,7 @@
 # 👋 Paulo Roberto Pereira Santiago
-- Welcome to my GitHub profile! My name is Paulo Roberto Pereira Santiago and I am a professor and researcher at the University of Sao Paulo (USP). My research interests lie at the intersection of Biomechanics and Computer Engineering.
+- Welcome to my GitHub profile!
+- My name is Paulo Roberto Pereira Santiago and I am a professor and researcher at the University of Sao Paulo (USP).
+- My research interests lie at the intersection of Biomechanics and Computer Engineering.
 
 ## 🧐 About Me
 - I have a Bachelor's degree in Physical Education from the São Paulo State University (UNESP - Rio Claro), and a Bachelor's Degree in Computer Engineering from the Virtual University of São Paulo-UNIVESP. I also have a Master's and Doctor's degree in Motricity Sciences from the São Paulo State University - UNESP. I have been teaching and conducting research in the area of Physical Education and Computer Engineering.
