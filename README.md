@@ -1,26 +1,44 @@
-# 👋🏽 Paulo Roberto Pereira Santiago
-- Welcome to my GitHub profile!
-- My name is Paulo Roberto Pereira Santiago and I am a professor and researcher at the University of Sao Paulo (USP) 🇧🇷.
-- My research interests lie at the intersection of Biomechanics and Computer Engineering.
+# Paulo Roberto Pereira Santiago 👋🏽
 
-## 🕵🏽‍♂ About Me 🏕️
-- I have a Bachelor's degree in Physical Education from the São Paulo State University (UNESP - Rio Claro), and a Bachelor's Degree in Computer Engineering from the Virtual University of São Paulo-UNIVESP. I also have a Master's and Doctor's degree in Motricity Sciences from the São Paulo State University - UNESP. I have been teaching and conducting research in the area of Physical Education and Computer Engineering.
+Hello! I'm Paulo Roberto Pereira Santiago, a professor and researcher at the University of São Paulo (USP) 🇧🇷. My passion lies at the intersection of Biomechanics and Computer Engineering.
 
-- My research focuses on developing innovative technologies for sports performance analysis and rehabilitation, as well as applying machine learning and data analysis techniques to biomechanical data.
+## 🎓 Education and Experience 🕵🏽‍♂️
 
-## 🤔 Interesting ⚽+🖥
-- As a professor and researcher in Physical Education and Computer Engineering, I find it particularly interesting to explore the potential of emerging technologies such as virtual reality, augmented reality, and wearable sensors for sports training and rehabilitation. I am also fascinated by the possibilities that machine learning and data analysis offer for understanding human movement and optimizing athletic performance.
-- I also have experience working with Linux systems, particularly in the context of scientific computing and data analysis.
+- **Academic Background**:
+  - Bachelor's in Physical Education from São Paulo State University (UNESP - Rio Claro).
+  - Bachelor's in Computer Engineering from the Virtual University of São Paulo (UNIVESP).
+  - Master's and Ph.D. in Motricity Sciences from São Paulo State University (UNESP).
 
+- **Research and Teaching**:
+  - Development of innovative technologies for sports performance analysis and rehabilitation.
+  - Application of machine learning techniques and data analysis on biomechanical data.
 
-# 🧑🏽‍🔬 My GitHub Projects
-- In my GitHub account, you will find some of the projects that I have worked on, both individually and as part of a team. Here are some of the highlights:
+## 🌐 Interests and Expertise 🚀
 
-* Project A: A software tool for analyzing running gait using motion capture data. Built using Python, Matlab/GNU-Octave, and specialized biomechanics software.
+- Exploring the potential of emerging technologies like virtual reality, augmented reality, and wearable sensors for sports training and rehabilitation.
+- Fascinated by the possibilities machine learning and data analysis offer in understanding human movement and optimizing athletic performance.
+- Experience with Linux systems, especially in scientific computing and data analysis.
 
-* Project B: A machine learning-based approach for predicting injury risk in professional athletes. Built using Python and various machine learning libraries.
+## 🧑🏽‍🔬 Highlighted GitHub Projects 🌟
 
-* Project C: Motion capture for biomechanical analysis with Vicon, Qualisys, and OptiTrack. Markerless human movement analysis.
+Here are some of the projects I've been involved in:
 
-# 📫 Get in Touch
-If you would like to know more about me or my projects, please feel free to get in touch. You can find my contact information on my GitHub profile page. Thank you for visiting!
+- **Project A**: Software tool for analyzing running gait using motion capture data. Developed with Python, Matlab/GNU-Octave, and specialized biomechanics software.
+  
+- **Project B**: Machine learning-based approach to predict injury risk in professional athletes. Built with Python and various machine learning libraries.
+  
+- **Project C**: Motion capture for biomechanical analysis with Vicon, Qualisys, and OptiTrack. Markerless human movement analysis.
+
+## 📫 Connect with Me 💌
+
+Would you like to know more about me or my projects? Feel free to reach out. You can find more about me and my work on the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/paulo-roberto-pereira-santiago-132619112/)
+- [ORCID](https://orcid.org/0000-0002-9460-884)
+- [ResearchGate](https://www.researchgate.net/profile/Paulo_Santiago3)
+- [Google Scholar](https://scholar.google.com/citations?user=OLwUqVkAAAAJ&hl=en)
+- [Web of Science](https://www.webofscience.com/wos/author/record/197414)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36098423400)
+- [Lattes](http://lattes.cnpq.br/6762194285058568)
+
+Thank you for visiting!
