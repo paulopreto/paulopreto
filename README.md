@@ -32,7 +32,7 @@ Here are some of the projects I've been involved in:
 Would you like to know more about me or my projects? Feel free to reach out. You can find more about me and my work on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-roberto-pereira-santiago-132619112/)
-- [ORCID](https://orcid.org/0000-0002-9460-884)
+- [ORCID](https://orcid.org/0000-0002-9460-8847)
 - [ResearchGate](https://www.researchgate.net/profile/Paulo_Santiago3)
 - [Google Scholar](https://scholar.google.com/citations?user=OLwUqVkAAAAJ&hl=en)
 - [Web of Science](https://www.webofscience.com/wos/author/record/197414)
