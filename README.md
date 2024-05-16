@@ -10,23 +10,21 @@ Hello! I'm Paulo Roberto Pereira Santiago, a professor and researcher at the Uni
   - Master's and Ph.D. in Motricity Sciences from São Paulo State University (UNESP).
 
 - **Research and Teaching**:
-  - Development of innovative technologies for sports performance analysis and rehabilitation.
-  - Application of machine learning techniques and data analysis on biomechanical data.
+  - Developing innovative technologies for sports performance analysis and rehabilitation.
+  - Applying machine learning techniques and data analysis to biomechanical data.
 
 ## 🌐 Interests and Expertise 🚀
 
 - Exploring the potential of emerging technologies like virtual reality, augmented reality, and wearable sensors for sports training and rehabilitation.
-- Fascinated by the possibilities machine learning and data analysis offer in understanding human movement and optimizing athletic performance.
-- Experience with Linux systems, especially in scientific computing and data analysis.
+- Utilizing machine learning and data analysis to understand human movement and optimize athletic performance.
+- Proficient with Linux systems, especially in scientific computing and data analysis.
 
 ## 🧑🏽‍🔬 Highlighted GitHub Projects 🌟
 
 Here are some of the projects I've been involved in:
 
 - **Project A**: Software tool for analyzing running gait using motion capture data. Developed with Python, Matlab/GNU-Octave, and specialized biomechanics software.
-  
 - **Project B**: Machine learning-based approach to predict injury risk in professional athletes. Built with Python and various machine learning libraries.
-  
 - **Project C**: Motion capture for biomechanical analysis with Vicon, Qualisys, and OptiTrack. Markerless human movement analysis.
 
 ## 📫 Connect with Me 💌
