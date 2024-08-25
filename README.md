@@ -23,7 +23,10 @@ Hello! I'm Paulo Roberto Pereira Santiago, a professor and researcher at the Uni
 
 Here are some of the projects I've been involved in:
 
-- **Vailá - Multimodal Toolbox**: I'm one of the creators, idealizers, and maintainers of this project, which focuses on multimodal data analysis. [GitHub Repository](https://github.com/vaila-multimodaltoolbox)
+- **vailá - Multimodal Toolbox**: I'm one of the creators, idealizers, and maintainers of this project, which focuses on multimodal Biomechanics data analysis. [GitHub Repository](https://github.com/vaila-multimodaltoolbox)
+<p align="center">
+  <img src="vaila.png" alt="vailá Logo" width="200"/>
+</p>
 - **Project A**: Software tool for analyzing running gait using motion capture data. Developed with Python, Matlab/GNU-Octave, and specialized biomechanics software.
 - **Project B**: Machine learning-based approach to predict injury risk in professional athletes. Built with Python and various machine learning libraries.
 - **Project C**: Motion capture for biomechanical analysis with Vicon, Qualisys, and OptiTrack. Markerless human movement analysis.
