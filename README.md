@@ -1,30 +1,32 @@
-# Paulo Roberto Pereira Santiago
+# user@usp:~$ whoami
+paulo-roberto-santiago
 
-Professor and Researcher at the University of São Paulo (USP).
-Focus on Biomechanics, Computer Engineering, and Scientific Computing.
+# user@usp:~$ cat profile.txt
+NAME: Paulo Roberto Pereira Santiago
+ROLE: Professor & Researcher @ University of São Paulo (USP)
+FIELD: Biomechanics / Computer Engineering / Scientific Computing
 
-## Academic & Professional Background
+# user@usp:~$ ls -l ./expertise/
+-rwxr-xr-x  1 root root  Signal Processing (Python/C++/MATLAB)
+-rwxr-xr-x  1 root root  Machine Learning for Human Movement
+-rwxr-xr-x  1 root root  Motion Capture (Vicon/Qualisys/OptiTrack)
+-rwxr-xr-x  1 root root  Linux-based Scientific Workflows
 
-* **Computer Engineering** (UNIVESP) | **Physical Education** (UNESP)
-* **PhD in Motricity Sciences** (UNESP)
-* Lead Maintainer of the **vailá - Multimodal Toolbox**
-* Collaborator at **L.A.B.E.** (University of North Florida)
+# user@usp:~$ ./show_projects.sh
+> vailá-multimodal: Lead maintainer. Framework for biomechanical data.
+> gait-analysis-tool: Kinematic/Kinetic processing engine.
+> injury-pred-ml: Risk assessment models for professional athletes.
 
-## Technical Focus
+# user@usp:~$ finger p-santiago
+Academic Background:
+  PhD, Motricity Sciences (UNESP)
+  BEng, Computer Engineering (UNIVESP)
+  
+Affiliations:
+  USP (Brazil)
+  L.A.B.E. (University of North Florida)
 
-* **Biomechanical Modeling:** Human movement analysis and gait optimization.
-* **Signal Processing:** Machine learning and data analysis for sports/rehabilitation.
-* **Stack:** Linux, Python, MATLAB/GNU-Octave, C++.
-* **Motion Capture:** Vicon, Qualisys, OptiTrack, and Markerless systems.
+# user@usp:~$ echo $SOCIAL_LINKS
+[ORCID](https://orcid.org/0000-0002-9460-8847) | [LATTES](http://lattes.cnpq.br/6762194285058568) | [SCHOLAR](https://scholar.google.com/citations?user=OLwUqVkAAAAJ) | [LINKEDIN](https://www.linkedin.com/in/paulo-roberto-pereira-santiago-132619112/)
 
-## Key Projects
-
-* [vailá - Multimodal Toolbox](https://github.com/vaila-multimodaltoolbox): A comprehensive framework for multimodal biomechanics data.
-* **Running Gait Analysis:** Specialized tools for kinematic and kinetic data processing.
-* **Predictive Injury Modeling:** ML-based risk assessment for elite athletes.
-
-## Research Profiles
-
-[ORCID](https://orcid.org/0000-0002-9460-8847) | [Lattes](http://lattes.cnpq.br/6762194285058568) | [Google Scholar](https://www.google.com/search?q=https://scholar.google.com/citations%3Fuser%3DOLwUqVkAAAAJ) | [LinkedIn](https://www.linkedin.com/in/paulo-roberto-pereira-santiago-132619112/)
-
-
+# user@usp:~$ _
