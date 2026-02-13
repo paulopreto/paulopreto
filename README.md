@@ -1,32 +1,31 @@
-# user@usp:~$ whoami
-paulo-roberto-santiago
+paulopreto@github:~$ whoami
+Paulo Roberto Pereira Santiago
+Professor and Researcher @ University of São Paulo (USP)
 
-# user@usp:~$ cat profile.txt
-NAME: Paulo Roberto Pereira Santiago
-ROLE: Professor & Researcher @ University of São Paulo (USP)
-FIELD: Biomechanics / Computer Engineering / Scientific Computing
+paulopreto@github:~$ ls -l /capabilities/
+-rwxr-xr-x 1 paulopreto paulopreto  Biomechanical-Modeling
+-rwxr-xr-x 1 paulopreto paulopreto  Scientific-Computing (C++/Python/MATLAB)
+-rwxr-xr-x 1 paulopreto paulopreto  Machine-Learning-for-Human-Movement
+-rwxr-xr-x 1 paulopreto paulopreto  Computer-Engineering (BEng)
+-rwxr-xr-x 1 paulopreto paulopreto  Signal-Processing-and-Kinematics
 
-# user@usp:~$ ls -l ./expertise/
--rwxr-xr-x  1 root root  Signal Processing (Python/C++/MATLAB)
--rwxr-xr-x  1 root root  Machine Learning for Human Movement
--rwxr-xr-x  1 root root  Motion Capture (Vicon/Qualisys/OptiTrack)
--rwxr-xr-x  1 root root  Linux-based Scientific Workflows
+paulopreto@github:~$ ./show_active_projects.sh
+[vailá-toolbox]     Lead Maintainer: Multimodal Biomechanics Framework
+[gait-analysis]     Kinematic and Kinetic Data Processing Engine
+[injury-pred-ml]    Risk Assessment Models for Elite Athletes
+[motion-capture]    Vicon, Qualisys, OptiTrack, Markerless Systems
 
-# user@usp:~$ ./show_projects.sh
-> vailá-multimodal: Lead maintainer. Framework for biomechanical data.
-> gait-analysis-tool: Kinematic/Kinetic processing engine.
-> injury-pred-ml: Risk assessment models for professional athletes.
+paulopreto@github:~$ finger p-santiago
+Academic:
+  - PhD & MSc in Motricity Sciences (UNESP)
+  - BEng in Computer Engineering (UNIVESP)
+  - BSc in Physical Education (UNESP)
 
-# user@usp:~$ finger p-santiago
-Academic Background:
-  PhD, Motricity Sciences (UNESP)
-  BEng, Computer Engineering (UNIVESP)
-  
 Affiliations:
-  USP (Brazil)
-  L.A.B.E. (University of North Florida)
+  - University of São Paulo (USP), Brazil
+  - L.A.B.E. (University of North Florida), USA
 
-# user@usp:~$ echo $SOCIAL_LINKS
+paulopreto@github:~$ echo $RESEARCH_RECORDS
 [ORCID](https://orcid.org/0000-0002-9460-8847) | [LATTES](http://lattes.cnpq.br/6762194285058568) | [SCHOLAR](https://scholar.google.com/citations?user=OLwUqVkAAAAJ) | [LINKEDIN](https://www.linkedin.com/in/paulo-roberto-pereira-santiago-132619112/)
 
-# user@usp:~$ _
+paulopreto@github:~$ _
