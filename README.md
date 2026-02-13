@@ -28,7 +28,7 @@ Affiliations:
 
 paulopreto@github:~$ echo $RESEARCH_RECORDS
 ```
-ORCID | LATTES | SCHOLAR | LINKEDIN \\
+ORCID | LATTES | SCHOLAR | LINKEDIN\
 [ORCID](https://orcid.org/0000-0002-9460-8847) | [LATTES](http://lattes.cnpq.br/6762194285058568) | [SCHOLAR](https://scholar.google.com/citations?user=OLwUqVkAAAAJ) | [LINKEDIN](https://www.linkedin.com/in/paulo-roberto-pereira-santiago-132619112/)
 
 ```bash
