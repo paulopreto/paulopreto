@@ -1,4 +1,4 @@
-paulopreto@github:~$ whoami 
+paulopreto@github:~$ whoami
 Paulo Roberto Pereira Santiago
 Professor and Researcher @ University of São Paulo (USP)
 
