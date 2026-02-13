@@ -1,3 +1,4 @@
+```bash
 paulopreto@github:~$ whoami
 Paulo Roberto Pereira Santiago
 Professor and Researcher @ University of São Paulo (USP)
@@ -27,3 +28,4 @@ Affiliations:
 
 paulopreto@github:~$ echo $RESEARCH_RECORDS
 ORCID | LATTES | SCHOLAR | LINKEDINpaulopreto@github:~$ _
+```
