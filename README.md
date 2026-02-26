@@ -24,7 +24,6 @@ Academic:
 
 Affiliations:
   - University of São Paulo (USP), Brazil
-  - L.A.B.E. (University of North Florida), USA
 
 paulopreto@github:~$ echo $RESEARCH_RECORDS
 ```
